@@ -11,4 +11,4 @@ router.post('/', function(req,res){
     res.send(req.body.name + ' ' + req.body['spirit-animal']);
 });
 
-module.exports = router;
+//module.exports = router;
